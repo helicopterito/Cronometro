@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_1c5e92239f3a678ffb8bec41ac81da991955683d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_a7caf7cd82c664b02ccef349a5053dda8dc7abdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_2d19534844d1aac2a1183924fa818e1f4395e161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_31f81828b873d2bf2b67c061c4c25022ec0e286f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_8c65623bc3cbcccb7c44c7c2015612f549829362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_20d60b03e747a2533f284e6a102bf4981373d62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_1112807abfd5e02794bb999ca08194f2c45a8ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_f640764edb457724f24c6da7812121f6b4218010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_1d0079bc88dbc5f2456162e1d988ca30498336c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/uchitel/Dropbox/Cronometro/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_a0e1fd7d018789ef456e27187b302adf2d46c0fa.jar" />
+    </item>
+
+</items>
